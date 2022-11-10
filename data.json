@@ -1,0 +1,47 @@
+[
+
+  {
+    "id": 1,
+    "nombre": "Chocotorta",
+    "precio": 2000,
+    "img": "../img/chocot.jpg"
+   
+  },
+
+  {
+    "id": 2,
+    "nombre": "Lemon pie",
+    "precio": 1800,
+    "img": "../img/lemon.jpg"
+  },
+
+  {
+    "id": 3,
+    "nombre": "Rogel",
+    "precio": 1500,
+    "img": "../img/rogel.jpg"
+  },
+
+  {
+    "id": 4,
+    "nombre": "Chessecake",
+    "precio": 2000,
+    "img": "../img/chess.jpg"
+  },
+
+  {
+    "id": 5,
+    "nombre": "MilkaCake",
+    "precio": 2500,
+    "img": "../img/milka.jpg"
+  },
+
+  {
+
+    "id": 6,
+    "nombre": "OreoCookies",
+    "precio": 1700,
+    "img": "../img/oreo.jpg"
+  }
+]
+
